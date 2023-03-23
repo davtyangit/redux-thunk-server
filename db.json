@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "name": "Karen",
+      "address": "Armenia",
+      "email": "karen@mail.ru",
+      "contact": "+3747777777",
+      "id": 1
+    },
+    {
+      "name": "Armen",
+      "address": "Armenia",
+      "email": "armen@mail.ru",
+      "contact": "+374999999",
+      "id": 2
+    },
+    {
+      "name": "Sergei",
+      "address": "Russia",
+      "email": "sergey@mail.ru",
+      "contact": "+788888888888",
+      "id": 3
+    },
+    {
+      "name": "Hasmik",
+      "address": "Armenia",
+      "email": "hasmik@mail.ru",
+      "contact": "+374555555",
+      "id": 4
+    },
+    {
+      "name": "Jack",
+      "address": "Belgium",
+      "email": "jack@mail.ru",
+      "contact": "+122222222222",
+      "id": 5
+    },
+    {
+      "name": "Olga",
+      "address": "Russia",
+      "email": "olga@mail.ru",
+      "contact": "+7999999999",
+      "id": 6
+    },
+    {
+      "name": "Any",
+      "address": "Belgium",
+      "email": "any@mail.ru",
+      "contact": "+25555555555",
+      "id": 7
+    },
+    {
+      "name": "Nastia",
+      "address": "Russia",
+      "email": "nastia@mail.ru",
+      "contact": "+799999999",
+      "id": 8
+    }
+  ]
+}

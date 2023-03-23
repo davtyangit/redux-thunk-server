@@ -1,0 +1,85 @@
+.add {
+  background-color: #764abc;
+  padding: 10px 50px;
+  color: white;
+  border-radius: 5px;
+  border: none;
+}
+
+.items {
+  margin-top: 50px;
+  border-radius: 5px;
+  width: 800px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.items_panel {
+  margin-bottom: 5px;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: #764abc22;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.search_input {
+  width: 100%;
+  height: 40px;
+  padding-left: 10px;
+  outline: none;
+}
+
+form {
+  width: 100%;
+  display: flex;
+}
+
+.reset {
+  color: rgba(128, 128, 128, 0.429);
+  margin-left: 10px;
+  font-weight: bold;
+}
+
+.filter {
+  display: flex;
+  justify-content: end;
+  display: flex;
+  cursor: pointer;
+}
+
+.filter p {
+  margin-bottom: 20px;
+  margin-left: 10px;
+  font-weight: bold;
+  color: #764abc;
+}
+
+.search_btn {
+  background-color: #764abc;
+  display: flex;
+  align-items: center;
+  width: 50px;
+  color: white;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.actions_btns {
+  display: flex;
+  color: #764abc;
+  gap: 5px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.Loading {
+  color: #764abc;
+  margin: auto;
+}
+
+.Empty {
+  color: #764abc;
+}
